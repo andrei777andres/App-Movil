@@ -1,7 +1,11 @@
 {
   "dependencies": {
+    "@react-native-community/cli-platform-android": "^6.1.0",
     "appcenter": "4.3.0",
     "appcenter-analytics": "4.3.0",
-    "appcenter-crashes": "4.3.0"
+    "appcenter-crashes": "4.3.0",
+    "react-native-maps": "^0.29.3",
+    "react-native-onesignal": "^4.3.1",
+    "react-native-unimodules": "^0.14.8"
   }
 }
